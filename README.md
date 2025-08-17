@@ -9,10 +9,19 @@
 - %s/%d statements to represent the equivalent of JS template literals
 - Math.round(), how to convert a double to an int
 
-  ### Learning Elixir
+### Learning Elixir
 
-  # Concepts:
+# Concepts:
 
-  - :rand.uniform() rule
-  - cond function
-  - String.to_integer method
+- :rand.uniform() rule
+- cond function
+- String.to_integer method
+
+### Learning C++
+
+# Concepts
+
+- function types (int)
+- Taking user input using cout and cin
+- cin.clear()
+- cin.ignore()
