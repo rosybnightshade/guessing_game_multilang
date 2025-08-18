@@ -1,6 +1,6 @@
-### Learning Java
+# Learning Java
 
-# Concepts:
+### Concepts:
 
 - while(condition) loops [needs more practice]
 - try/catch statements
@@ -9,19 +9,28 @@
 - %s/%d statements to represent the equivalent of JS template literals
 - Math.round(), how to convert a double to an int
 
-### Learning Elixir
+# Learning Elixir
 
-# Concepts:
+### Concepts:
 
 - :rand.uniform() rule
 - cond function
 - String.to_integer method
 
-### Learning C++
+# Learning C++
 
-# Concepts
+### Concepts
 
 - function types (int)
 - Taking user input using cout and cin
 - cin.clear()
 - cin.ignore()
+
+# Learning Python
+
+### Concepts
+
+- import random
+- try/catch
+- ValueError
+- Calling functions
